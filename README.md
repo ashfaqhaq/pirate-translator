@@ -1,2 +1,1 @@
-# pirate-translator
-Created with CodeSandbox
+# JS-banana-talk-app
